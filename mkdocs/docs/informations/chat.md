@@ -3,12 +3,19 @@ hide:
   - toc
 ---
 
-# RocketChat du projet
+# Salon de discussion
 
-(Aucune instance de Chat n'est fournie)
+(Aucune instance n'est enregistrée pour le moment)
 
 ---
 
-###### Ajouter une instance Chat :
+###### Ajouter une instance (Discord, RocketChat, etc) :
 
-```<iframe src="https://..."></iframe>```
+```<iframe width="100%" height="550" src="https://lien.chat.fr"></iframe>```
+
+
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>

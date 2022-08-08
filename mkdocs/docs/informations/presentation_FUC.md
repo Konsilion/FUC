@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Le Forum de Usages Coopératifs de Brest, Kesako ?
 *Du 5 au 8 juillet 2022 / IMT Atlantique Campus de Brest* -- *[lien vers le site de l'évenement](https://forum-usages-cooperatifs.net/?Accueil)*
 
@@ -12,6 +18,19 @@ Un forum précédé le mardi d’un off ouvert à vos propres rencontres et acco
 
 Bienvenue à Brest et en Bretagne !
 
-## Participez à cette documentation
+## **Focus sur la Low-tech**
+
+Nous vous proposons de participer et de consulter nos prises de note collaboratives. Retrouvez toutes les informations concernant les sessions Low-tech [ici](../../sessions/mercredi_06072022). 
+
+---
 
 Si vous souhaitez participez à cette documentation, consultez la [section suivante](../premiers_pas)
+
+---
+
+
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>

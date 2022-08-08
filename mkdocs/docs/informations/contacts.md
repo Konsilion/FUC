@@ -1,10 +1,9 @@
 ---
 hide:
-    -toc
-    -navigation
+  -toc
 ---
 
-# Nos coordonnées
+# Coordonnées
 
 
 **Nicolas Brémond** - Konsilion ingénieries
@@ -15,32 +14,30 @@ hide:
 
 ---
 
-**Alexandre Gaultier** - Doctorant au laboratoire ...
+**Alexandre Gaultier**
 
-* <u>Télephone</u> : 06 61 26 23 26
 * <u>E-mail</u> : gaultieralexandre@hotmail.fr
-* <u>Adresse</u> : ...
 
 ---
 
 **William Bernaud** - Philosophe des techniques - Indépendant
 
-* <u>Télephone</u> : 06 61 26 23 26
+* <u>Télephone</u> : 06 38 88 30 55
 * <u>E-mail</u> : william.bernaud@laposte.net
-* <u>Adresse</u> : ...
 
 ---
-**Emmanuel Laurent** - ...
 
-* <u>Télephone</u> : 06 ...
+**Emmanuel Laurent** - La Myne
+
 * <u>E-mail</u> : laurent.em@free.fr
-* <u>Adresse</u> : ..
+
+
+
 
 <br>
----
 
-<br>
-
-***Quelle phrase synthétise au mieux cette documentation ?***
-
-<br><br>
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>

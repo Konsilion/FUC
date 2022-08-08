@@ -3,6 +3,18 @@ hide:
   - toc
 ---
 
-# Prises de notes collaboratives
+# Prises de notes
 
-<iframe width="100%" height="800" src="https://pad.lamyne.org/s/LTLfestival_atelierZ_FUC_sessions_juillet22#"></iframe>
+(Aucune instance n'est enregistrée pour le moment)
+
+---
+
+###### Ajouter une instance (HedgeDoc, CodiMD, etc.) :
+
+```<iframe width="100%" height="550" src="https://lien.pad.fr"></iframe>```
+
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>

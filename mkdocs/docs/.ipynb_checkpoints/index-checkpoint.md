@@ -14,3 +14,9 @@ Suite à de nombreuses présentations, échanges et discussions. Nous vous propo
 **Pas très familié.es avec ces notions et outils de coopération ?** 
 
 <br><a href="./informations/premiers_pas/" title="home-link" class="md-button">On vous dit tout !</a>
+
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>
